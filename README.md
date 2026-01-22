@@ -122,15 +122,15 @@ Passwords in this repo are **lab defaults** (u1/u2/123). Change them if needed.
 
 ---
 ## 🤝 Contributors
-Yasmin Ramadan Abdelwahed
+-Yasmin Ramadan Abdelwahed
 
-Omnya Ayman Roshdy
+-Omnya Ayman Roshdy
 
-Ibrahim Galal Ibrahim
+-Ibrahim Galal Ibrahim
 
-Mohamed Soliman
+-Mohamed Soliman
 
-Bebres Mohamed
+-Bebres Mohamed
 
 ## 📝 Author
 **Yasmen Ramadan**  
